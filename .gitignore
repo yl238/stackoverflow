@@ -4,6 +4,13 @@
 # Jupyter notebooks
 *.ipynb_checkpoints/
 
+# data
+data/
+
+# jupyter notebook
+*.ipynb_checkpoints/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
