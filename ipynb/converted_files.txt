@@ -1,0 +1,83 @@
+Time taken to insert = 58.726613998413086 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfb
+Time taken to insert = 55.61750817298889 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsji
+Time taken to insert = 58.30251383781433 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postslp
+Time taken to insert = 59.14140295982361 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsem
+Time taken to insert = 53.034990072250366 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsct
+Time taken to insert = 51.66552114486694 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfe
+Time taken to insert = 57.448139905929565 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsia
+Time taken to insert = 59.58317804336548 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postscs
+Time taken to insert = 49.710530042648315 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsej
+Time taken to insert = 53.04886817932129 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postslw
+Time taken to insert = 58.72135400772095 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsjn
+Time taken to insert = 59.32698893547058 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsec
+Time taken to insert = 55.06091785430908 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postscz
+Time taken to insert = 51.6035840511322 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsjg
+Time taken to insert = 56.054291009902954 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfl
+Time taken to insert = 51.78848099708557 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsih
+Time taken to insert = 55.59579801559448 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsly
+Time taken to insert = 58.058493852615356 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsed
+Time taken to insert = 51.57239103317261 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsio
+Time taken to insert = 55.53840398788452 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfk
+Time taken to insert = 52.40635013580322 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postslk
+/anaconda3/lib/python3.6/site-packages/bs4/__init__.py:282: UserWarning: "https://github.com/PanayotCankov/timeline-view" looks like a URL. Beautiful Soup is not an HTTP client. You should probably use an HTTP client like requests to get the document behind the URL, and feed that document to Beautiful Soup.
+  ' that document to Beautiful Soup.' % decoded_markup
+Time taken to insert = 57.18661093711853 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsjr
+Time taken to insert = 56.12496018409729 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsco
+Time taken to insert = 48.950700759887695 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsev
+Time taken to insert = 51.70589900016785 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfy
+Time taken to insert = 54.432836055755615 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postseq
+Time taken to insert = 52.14784002304077 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsch
+Time taken to insert = 48.30246305465698 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsju
+Time taken to insert = 56.40984606742859 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsll
+Time taken to insert = 57.066372871398926 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsiz
+Time taken to insert = 289.7351188659668 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfw
+Time taken to insert = 56.860673904418945 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsis
+Time taken to insert = 57.627086877822876 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsca
+Time taken to insert = 49.664872884750366 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsex
+Time taken to insert = 53.18438911437988 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsle
+/anaconda3/lib/python3.6/site-packages/bs4/__init__.py:282: UserWarning: "https://cloud.google.com/dataprep/" looks like a URL. Beautiful Soup is not an HTTP client. You should probably use an HTTP client like requests to get the document behind the URL, and feed that document to Beautiful Soup.
+  ' that document to Beautiful Soup.' % decoded_markup
+Time taken to insert = 57.66327691078186 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsit
+Time taken to insert = 56.4693820476532 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postsfp
+Time taken to insert = 56.54121375083923 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postslb
+Time taken to insert = 59.298555850982666 seconds
+/Users/sueliu/Downloads/stackoverflow/posts/postscf
+Time taken to insert = 51.455004930496216 seconds
