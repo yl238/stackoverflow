@@ -3,9 +3,11 @@ stackoverflow
 
 Use unsupervised methods to identify similar questions
 
-Project Organization
-------------
+This project uses the [spaCy](https://spacy.io/usage) library. We need to download a language model
 
+```
+python -m spacy download en_core_web_[sm/md/lg]
+```
 
 
 --------
