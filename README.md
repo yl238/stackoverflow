@@ -1,2 +1,13 @@
-# Finding similar questions in Stack Overflow
-Find similar SO questions using LSH and autoencoders. Validate using questions that were closed by SO users for being 'same as previously asked question'.
+stackoverflow
+==============================
+
+Use unsupervised methods to identify similar questions
+
+Project Organization
+------------
+
+
+
+--------
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
